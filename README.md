@@ -10,7 +10,7 @@ Install the latest docker.
 Clone the repository.
 
 ```bash
-git clone https://github.com/mgentry612/gists_graphql_postgres_react.git ./<your_dir>/
+git clone https://github.com/mgentry612/gist_favorites.git ./<your_dir>/
 ```
 
 cd into your directory run the following to pull and run the postgres container, then initialize the database and table, next install the graphql and react APIs. Yes, there is a dummy password there, please don't store sensitive data in here.
